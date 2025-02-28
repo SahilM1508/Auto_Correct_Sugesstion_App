@@ -49,5 +49,5 @@ Feel free to fork this repository, make improvements, and submit a pull request!
 This project is licensed under the MIT License.
 
 ## Author
-Your Name - [Your GitHub Profile](https://github.com/yourusername)
+Your Name - Sahil Mahadik (https://github.com/SahilM1508))
 
